@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kauan dos Santos - História do Paraná</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-white text-gray-800 font-sans">
+  <!-- Header -->
+  <header class="text-center py-10 bg-gray-100">
+    <h1 class="text-4xl font-bold">Kauan dos Santos</h1>
+    <p class="text-lg mt-2">Aluno do terceiro ano B</p>
+  </header>
+
+  <!-- Seção História do Paraná -->
+  <section class="max-w-4xl mx-auto px-4 py-10">
+    <h2 class="text-2xl font-semibold mb-4">História do Paraná</h2>
+    <p class="mb-4">
+      A história do Paraná começa com os povos indígenas que habitavam a região antes da chegada dos europeus. No período colonial, o território paranaense fez parte da Capitania de São Vicente e posteriormente da Capitania de São Paulo.
+    </p>
+    <p class="mb-4">
+      Um marco importante foi o <strong>Tratado de Tordesilhas</strong> (1494), que dividiu as terras do "Novo Mundo" entre Portugal e Espanha. O território do Paraná ficou, inicialmente, na parte espanhola, mas com o avanço da colonização portuguesa, a ocupação se consolidou sob o domínio de Portugal.
+    </p>
+    <p class="mb-4">
+      A região foi oficialmente integrada ao Brasil como província em 1853, quando se separou da província de São Paulo.
+    </p>
+  </section>
+
+  <!-- Galeria de Imagens -->
+  <section class="max-w-4xl mx-auto px-4 py-10">
+    <h2 class="text-2xl font-semibold mb-6">Imagens Históricas</h2>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Mapa_Tordesilhas.png" alt="Tratado de Tordesilhas" class="w-full rounded shadow">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Catedral_curitiba.jpg" alt="Catedral de Curitiba" class="w-full rounded shadow">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Mapa_brasil_1700.png" alt="Mapa antigo do Brasil" class="w-full rounded shadow">
+    </div>
+  </section>
+
+  <!-- Contato -->
+  <footer class="text-center py-6 bg-gray-100 mt-10">
+    <p>© 2025 Kauan dos Santos. Projeto escolar.</p>
+  </footer>
+</body>
+</html>
